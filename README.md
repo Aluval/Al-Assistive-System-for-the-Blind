@@ -165,7 +165,7 @@ cd AI-Assistive-System-Blind
 ```python main.py```
 Press Q to exit the system.
 ---
-📂 Project Structure
+### 📂 Project Structure
 ```
 AI-Assistive-System-Blind
 │
@@ -175,7 +175,7 @@ AI-Assistive-System-Blind
 └── LICENSE
 ```
 ---
-🎯 Applications
+### 🎯 Applications
 This system can be used for:
 - Assistive technology for visually impaired people
 - Smart navigation systems
@@ -183,7 +183,7 @@ This system can be used for:
 - Robotics navigation
 - Smart wearable devices
 ---
-📜 License
+### 📜 License
 This project is licensed under the Apache License 2.0.
 
 You may:
@@ -197,7 +197,7 @@ However, proper attribution to the original developer is required.
 Full license:
 ```https://www.apache.org/licenses/LICENSE-2.0```
 ---
-⭐ Support
+### ⭐ Support
 If you find this project useful:
 
 ⭐ Star the repository
