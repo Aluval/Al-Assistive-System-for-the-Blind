@@ -213,9 +213,3 @@ Special thanks to the open-source community:
 ---
 © 2026 Aluvala Ediga Harsha Vardhan Goud
 ---
-
-
-
-
-
-Provides alerts like:
