@@ -1,4 +1,4 @@
-# 🧠 AI Assistive System for the Blind
+# 🧠 AI Assistive System for the Blind - VisuNav AI
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-green.svg)
